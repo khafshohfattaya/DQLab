@@ -1,0 +1,6 @@
+#DQLab
+-- Mengolah Data Teks Dasar pada MySQL
+-- Membaca data
+SELECT * FROM dqlabdatateks;
+
+
